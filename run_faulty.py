@@ -10,7 +10,7 @@
 This script models the response of the three-tank system to different faulty conditions. The faults considered include
 multiplicative faults in the states, additive actuator faults, and sensor faults.
 
-Modify line 98 to simulate different additive faults by specifying the fault index, magnitude and time of injection.
+Modify line 99 to simulate different additive faults by specifying the fault index, magnitude and time of injection.
 Modify line 114 to simulate different multiplicative faults by specifying the fault severity levels for each multiplicative fault.
 """
 
